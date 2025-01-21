@@ -1,0 +1,563 @@
+{
+    "home": {
+        "title": "Strona Główna",
+        "discover": "Odkryj",
+        "newPlaces": "Nowe Miejsca",
+        "popular": "Popularne",
+        "more": "więcej"
+    },
+    "language": {
+        "title": "Zmień język"
+    },
+    "search": {
+        "search": "Szukaj",
+        "all": "Wszystko",
+        "castle": "Zamki",
+        "ruin": "Ruiny",
+        "manor": "Dwory"
+    },
+    "favorite": {
+        "favorite": "Ulubione"
+    },
+    "map": {
+        "navigate": "Nawiguj",
+        "route1": "Szlak królewskich posiadłości",
+        "route2": "Szlak Rycerskich Warowni i Legend",
+        "route3": "Szlak Romantycznych Ruin i Zamkowych Widoków",
+        "route4": "Szlak Małopolskich Dworków i Kaszteli",
+        "hideRoute": "Ukryj trasę",
+        "changeRouteText": "Pokaż trasę"
+    },
+    "detail": {
+        "keyInformation": "Najważniejsze informacje",
+        "architecturalStyle": "Styl architektoniczny::",
+        "area": "Powierzchnia:",
+        "year": "Rok ukończenia budowy:",
+        "features": "Cechy charakterystyczne:",
+        "hours": "Godziny otwarcia:",
+        "ticket": "Ceny biletów:",
+        "adults": "Dorośli:",
+        "children": "Dzieci:",
+        "description": "Opis"
+    },
+    "wawel": {
+        "title": "Zamek Królewski na Wawelu",
+        "description": "Zabytkowy zamek obronno-rezydencyjny w Krakowie, na wzgórzu Wawelskim. Ma w nim siedzibę Państwowe Zbiory Sztuki – Zamek Królewski na Wawelu, muzeum o powierzchni 7040 m² z 71 salami wystawowymi.",
+        "fullDescription": "Zamek Królewski na Wawelu to jeden z najważniejszych symboli Polski, będący świadkiem kluczowych wydarzeń historycznych i kulturowych. Położony na wzgórzu Wawelskim w Krakowie, był siedzibą polskich królów przez wieki, odgrywając rolę centrum politycznego i kulturalnego kraju. Budowla łączy różne style architektoniczne, od romańskiego po renesansowy, co czyni ją wyjątkowym przykładem ciągłości i ewolucji artystycznej. Obecnie na Wawelu mieści się muzeum, które prezentuje królewskie komnaty, zbrojownię, skarbiec i kolekcję sztuki. Wśród atrakcji znajduje się również Katedra Wawelska, miejsce koronacji i pochówku królów. Wzgórze otoczone jest pięknym krajobrazem nad Wisłą, a Smocza Jama, legendarna grota smoka, przyciąga turystów w każdym wieku. Zamek Wawelski jest nie tylko cennym zabytkiem, ale także duchowym miejscem, gdzie historia Polski spotyka się z jej kulturą i tożsamością.",
+        "architecturalStyle": "Gotycki i Renesansowy",
+        "completed": "X wiek",
+        "feature": {
+            "tower": "Wieża Zygmuntowska",
+            "chapel": "Kaplica Zygmuntowska",
+            "den": "Smocza Jama"
+        },
+        "openingHours": "9:00 - 17:00"
+    },
+    "niepolomice": {
+        "title": "Zamek Królewski w Niepołomicach",
+        "description": "Zamek renesansowy w Niepołomicach, Polska, niegdyś rezydencja królewska nazywana 'drugim Wawelem', zbudowany w XIV wieku przez Kazimierza Wielkiego.",
+        "fullDescription": "Zamek w Niepołomicach, zwany 'drugim Wawelem', początkowo wzniesiony w stylu gotyckim w XIV wieku przez króla Kazimierza Wielkiego, a później przekształcony na renesansową rezydencję. Położony w mieście Niepołomice niedaleko Krakowa, służył jako królewska rezydencja myśliwska oraz miejsce spotkań królewskich. Po wielu historycznych wydarzeniach, w tym zniszczeniach podczas Potopu Szwedzkiego, zamek został zrekonstruowany i obecnie mieści muzeum oraz organizuje wydarzenia kulturalne. Architektura zamku charakteryzuje się arkadowym dziedzińcem i krużgankami, prezentującymi prace włoskich architektów. Otoczony jest Puszczą Niepołomicką, co czyni go atrakcyjnym miejscem zarówno dla miłośników historii, jak i przyrody.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "XVI wiek",
+        "feature": {
+            "courtyard": "Arkadowe Podwórze",
+            "chapel": "Kaplica Zamkowa",
+            "tower": "Wieża Narożna"
+        },
+        "openingHours": "10:00 - 18:00"
+    },
+    "pieskowa": {
+        "title": "Zamek w Pieskowej Skale",
+        "description": "Zamek renesansowy usytuowany na wapiennym skale w Parku Narodowym Ojcowskiego, znany ze swojego malowniczego położenia i historycznego znaczenia.",
+        "fullDescription": "Zamek w Pieskowej Skale, położony na wapiennej skale w sercu Parku Narodowego Ojcowskiego, oferuje zapierające dech w piersiach widoki oraz bogatą historię. Początkowo zbudowany w XIV wieku jako twierdza obronna, później przekształcony w renesansową rezydencję w XVI wieku. Architektura zamku odzwierciedla zarówno cele obronne, jak i mieszkalne, z wysokimi murami, wieżami i eleganckimi wnętrzami. Dziś służy jako muzeum, prezentując kolekcje sztuki, wystawy historyczne i ewolucję stylów architektonicznych. Jego położenie w parku czyni go również popularnym miejscem spacerów przyrodniczych, oferując panoramiczne widoki na okoliczny krajobraz. Ogród zamkowy z jego tarasami dodaje uroku i estetycznej wartości temu historycznemu miejscu.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "XVI wiek",
+        "feature": {
+            "defensive_walls": "Mury Obronne",
+            "observation_tower": "Wieża Widokowa",
+            "garden": "Ogród Tarasowy"
+        },
+        "openingHours": "10:00 - 16:00"
+    },
+    "niedzica": {
+        "title": "Zamek Dunajec w Niedzicy",
+        "description": "Średniowieczny zamek znany jako Zamek Dunajec, położony nad Jeziorem Czorsztyńskim w Pieninach, słynący z legend i malowniczego piękna.",
+        "fullDescription": "Zamek w Niedzicy, znany również jako Zamek Dunajec, wznosi się majestatycznie na wapiennej skale nad Jeziorem Czorsztyńskim, oferując zapierające dech w piersiach widoki na Pieniny. Zbudowany w XIV wieku, służył jako twierdza na granicy węgiersko-polskiej, strzegąc szlaków handlowych i później stając się rezydencją szlachecką. Historia zamku jest bogata w legendy, w tym opowieści o skarbach Inków i duchu Brunhildy. Dziś funkcjonuje jako muzeum, gdzie zwiedzający mogą zobaczyć wystawy historyczne, średniowieczne komnaty i dowiedzieć się o przeszłych właścicielach zamku. Znana 60-metrowa studnia, wieża oraz muzeum są wśród jego charakterystycznych cech. Zamek w Niedzicy był również tłem dla wielu filmów, co dodaje mu kulturowego znaczenia.",
+        "architecturalStyle": "Gotycki i Renesansowy",
+        "completed": "XIV wiek",
+        "feature": {
+            "well": "Głęboka Studnia",
+            "tower": "Wieża Obronno",
+            "museum": "Muzeum Zamkowe"
+        },
+        "openingHours": "9:00 - 17:00"
+    },
+    "wisnicz": {
+        "title": "Zamek w Nowym Wiśniczu",
+        "description": "Dobrze zachowany zamek renesansowy w Nowym Wiśniczu, znany ze swoich imponujących fortyfikacji i znaczenia historycznego.",
+        "fullDescription": "Zamek w Nowym Wiśniczu, również znany jako Zamek Kmitów, stanowi doskonały przykład polskiej architektury renesansowej. Założony w XIV wieku, ale głównie ukształtowany w XVI wieku przez Stanisława Lubomirskiego, charakteryzuje się imponującym układem z dużym dziedzińcem, wieżami obronnymi i grubymi murami. Przez stulecia zamek pełnił różne funkcje, od twierdzy obronnej przez rezydencję szlachecką po więzienie. Obecnie mieści muzeum, które prezentuje artefakty z jego bogatej historii, w tym broń, meble i dzieła sztuki. Architektura zamku obejmuje charakterystyczną wieżę bramną, co dodaje mu wyglądu twierdzy. Otoczony pięknymi ogrodami i położony w malowniczym miasteczku, Zamek w Nowym Wiśniczu przyciąga turystów zainteresowanych historią, architekturą oraz malowniczą scenerią południowej Polski.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "XVI wiek",
+        "feature": {
+            "courtyard": "Duży Dziedziniec",
+            "tower": "Wieża Bramna",
+            "gate": "Bramka Barokowa"
+        },
+        "openingHours": "10:00 - 18:00"
+    },
+    "czorsztyn": {
+        "title": "Zamek Królewski w Czorsztynie",
+        "description": "Ruiny królewskiego zamku położonego na wzgórzu z widokiem na Jezioro Czorsztyńskie, oferujące panoramę Pienin.",
+        "fullDescription": "Zamek w Czorsztynie, znany również jako Królewski Zamek w Czorsztynie, jest jednym z historycznych skarbów Polski, obecnie w stanie ruiny, dostarczając wgląd w jego średniowieczną przeszłość. Założony w XIV wieku, był ważnym strategicznym punktem na granicy polsko-węgierskiej, świadkiem licznych bitew i zmian własności. Historia zamku jest powiązana z pobliskim Zamkiem w Niedzicy, razem strzegąc Dunajca. Choć po wielu oblężeniach i naturalnej degradacji pozostały głównie ruiny, miejsce to nadal oferuje zapierające dech w piersiach widoki na Pieniny i Jezioro Czorsztyńskie. Zwiedzający mogą eksplorować pozostałe struktury, w tym mury i wieże, oraz cieszyć się pięknem krajobrazu z różnych punktów widokowych. Położenie zamku czyni go również popularnym miejscem do wędrówek pieszych i podziwiania naturalnego piękna regionu.",
+        "architecturalStyle": "Gotyk",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Ruiny",
+            "viewpoint": "Panorama Widokowa",
+            "walls": "Ufortyfikowane Mury"
+        },
+        "openingHours": "9:00 - 17:00"
+    },
+    "oswiecim": {
+        "title": "Zamek w Oświęcimiu",
+        "description": "Średniowieczny zamek w Oświęcimiu z historią sięgającą XIII wieku, obecnie funkcjonujący jako muzeum prezentujące historię i kulturę lokalną.",
+        "fullDescription": "Zamek w Oświęcimiu, znany również jako Zamek Książąt Oświęcimskich, jest jednym z najstarszych zachowanych budynków w mieście, z korzeniami w XIII wieku. Przez wieki pełnił różne role, od rezydencji książęcej po fortecę wojskową w różnych okresach historycznych. Architektura zamku ewoluowała od pierwotnego gotyku do bardziej renesansowego stylu poprzez liczne rekonstrukcje. Obecnie mieści Muzeum Oświęcimskie, które nie tylko prezentuje historię samego zamku, ale także zagłębia się w szerszy kontekst historyczny regionu, w tym wpływ II wojny światowej i Holokaustu. Zwiedzający mogą eksplorować wieżę zamkową, dziedziniec oraz różne sale, z których każda oferuje wgląd w przeszłość. Położenie zamku w Oświęcimiu, blisko Państwowego Muzeum Auschwitz-Birkenau, dodaje warstwę edukacyjnego znaczenia do każdej wizyty.",
+        "architecturalStyle": "Gotyk i Renesans",
+        "completed": "XIII wiek",
+        "feature": {
+            "tower": "Główna Wieża",
+            "museum": "Muzeum Oświęcimskie",
+            "courtyard": "Dziedziniec Zamkowy"
+        },
+        "openingHours": "9:00 - 17:00"
+    },
+    "spytkowice": {
+        "title": "Zamek w Spytkowicach",
+        "description": "Zabytkowy zamek w Spytkowicach, obecnie będący oddziałem Archiwum Narodowego, prezentujący bogatą historię przez swoją architekturę.",
+        "fullDescription": "Zamek w Spytkowicach, położony w regionie Małopolski, ma historię sięgającą XV wieku. Początkowo zbudowany jako struktura obronna, z czasem przekształcił się w rezydencję szlachecką, z istotnymi rozbudowami w XVII wieku. Architektura zamku odzwierciedla wpływy gotyckie i barokowe, co czyni go mieszaniną stylów. Od 1995 roku mieści ekspozyturę Archiwum Narodowego w Krakowie, przechowując historyczne dokumenty zamiast pełnić rolę tradycyjnego muzeum. Zwiedzający mogą podziwiać zamek z zewnątrz, z widocznymi elementami takimi jak późnogotyckie portale kamienne i otaczający park. Chociaż nie jest dostępny do zwiedzania wewnętrznego, zewnętrzne oglądanie dostarcza wgląd w jego historyczne i architektoniczne znaczenie. Obecna rola zamku w przechowywaniu dokumentów dodaje mu unikalnej wartości kulturowej w Spytkowicach.",
+        "architecturalStyle": "Gotyk i Barok",
+        "completed": "XVII wiek",
+        "feature": {
+            "archive": "Oddział Archiwum Narodowego",
+            "gothic_portal": "Portale Gotyckie",
+            "park": "Park Zamkowy"
+        },
+        "openingHours": "Tylko oglądanie z zewnątrz, bez określonych godzin"
+    },
+    "tenczyn": {
+        "title": "Zamek Tenczyn w Rudnie",
+        "description": "Ruiny Zamku Tenczyn, położone na wygasłym wulkanie, należą do największych ruin zamkowych w Małopolsce, oferując wgląd w średniowieczną architekturę obronną.",
+        "fullDescription": "Zamek Tenczyn, znany również jako Zamek Tęczyn, to średniowieczna twierdza znajdująca się w Rudnie niedaleko Krzeszowic. Zbudowany w XIV wieku, był niegdyś jednym z największych zamków w Małopolsce i stanowił siedzibę rodu Tęczyńskich, znaczącego rodu szlacheckiego. Strategiczne położenie na wulkanicznym wzgórzu zapewniało zarówno naturalne przewagi obronne, jak i panoramiczne widoki. Przez wieki zamek doświadczył licznych oblężeń, w tym potopu szwedzkiego, co doprowadziło do jego obecnego stanu ruin. Jednak dzięki pracom konserwacyjnym ruiny są dostępne dla zwiedzających, którzy mogą eksplorować elementy takie jak Wieża Nawojowa, brama oraz pozostałości po dawnych, imponujących strukturach zamku. Miejsce to organizuje również wydarzenia kulturalne i dostarcza wgląd w geologiczną historię regionu, zważywszy na jego wulkaniczne pochodzenie.",
+        "architecturalStyle": "Gotyk i Renesans",
+        "completed": "XIV wiek",
+        "feature": {
+            "tower": "Wieża Nawojowa",
+            "gate": "Główna Brama",
+            "ruins": "Ruiny Zamku"
+        },
+        "openingHours": "W weekendy i święta od 10:00 do 18:00"
+    },
+    "debno": {
+        "title": "Zamek w Dębnie",
+        "description": "Dobrze zachowany późnogotycki zamek w Dębnie, znany ze swojego historycznego znaczenia jako rezydencja szlachecka, obecnie muzeum.",
+        "fullDescription": "Zamek w Dębnie, zbudowany pod koniec XV wieku, jest świadectwem późnogotyckiej architektury w Polsce. Początkowo wzniesiony przez Jakuba Dębińskiego, kanclerza i kasztelana, zamek pełnił rolę rezydencji szlacheckiej dla wielu wpływowych rodzin przez wieki, w tym dla Tarłów i Jastrzębskich. Jego projekt obejmuje cztery skrzydła tworzące dziedziniec, z dekoracyjnymi elementami kamieniarskimi i herbami zdobiącymi ściany. Po przejęciu przez państwo po II wojnie światowej, przeszedł znaczącą renowację między 1970 a 1978 rokiem. Obecnie funkcjonuje jako filia Muzeum Okręgowego w Tarnowie, prezentując meble, sztukę oraz artefakty historyczne z różnych okresów. Zamek organizuje również wydarzenia kulturalne, dając zwiedzającym możliwość doświadczenia historii poprzez jego architekturę i ekspozycje.",
+        "architecturalStyle": "Późny Gotyk",
+        "completed": "XV wiek",
+        "feature": {
+            "courtyard": "Wewnętrzny Dziedziniec",
+            "chapel": "Kaplica Zamkowa",
+            "museum": "Oddział Muzeum Okręgowego w Tarnowie"
+        },
+        "openingHours": "Od wtorku do piątku od 9:00 do 16:00, sobota i niedziela od 10:00 do 18:00"
+    },
+    "zator": {
+        "title": "Zamek książęcy w Zatorze",
+        "description": "Zabytkowy zamek w Zatorze, niegdyś rezydencja książęca, teraz rewitalizowany dla turystyki, prezentujący architekturę neogotycką.",
+        "fullDescription": "Zamek książęcy w Zatorze, pierwotnie zbudowany w XV wieku, służył jako główna siedziba książąt zatorskich. Jego historia obejmuje okresy zniszczeń podczas wojen, jak potop szwedzki, oraz znaczące modyfikacje na przestrzeni czasu. W XIX wieku został przekształcony w pałac neogotycki przez rodzinę Potockich, co dodało mu obecnego uroku architektonicznego. Po II wojnie światowej zamek służył różnym celom, w tym jako magazyn zboża, zanim poddano go gruntownym renowacjom, aby przywrócić jego historyczną i estetyczną wartość. Obecnie jest otwarty dla turystów, oferując bogato zdobione wnętrza, historyczny park oraz wydarzenia kulturalne. Zamek jest również znany z wieży i elementów neogotyckich, co czyni go ważnym punktem na mapie regionu.",
+        "architecturalStyle": "Neogotyk",
+        "completed": "XIX-wieczna renowacja",
+        "feature": {
+            "tower": "Główna Wieża",
+            "park": "Historyczny Park",
+            "neogothic_elements": "Dekoracje Neogotyckie"
+        },
+        "openingHours": "Zamknięty z powodu renowacji, sprawdź aktualizacje"
+    },
+    "sucha": {
+        "title": "Zamek w Suchej Beskidzkiej",
+        "description": "Nazywany często „Małym Wawelem” ze względu na podobieństwo do krakowskiego Zamku Królewskiego, ten renesansowy zamek jest obecnie centrum kultury i edukacji.",
+        "fullDescription": "Zamek w Suchej Beskidzkiej, znany jako „Mały Wawel,” to renesansowa perła założona w XVI wieku przez Kaspra Suskiego. Jego architektura, z arkadowymi galeriami przypominającymi Zamek Królewski w Krakowie, ewoluowała przez wieki, odzwierciedlając style rodzin, które nim władały, w tym Komorowskich, Wielopolskich, Braniccy i Tarnowskich. Po II wojnie światowej pełnił różne funkcje, zanim został przekształcony w centrum kultury. Obecnie mieści Muzeum Miejskie Suchej Beskidzkiej, prezentując lokalną historię, sztukę i artefakty. Kompleks zamkowy obejmuje historyczny park, galerie oraz wieżę, czyniąc go ważnym miejscem kulturalnym i edukacyjnym. Zamek jest również znany z opowieści o duchach, w tym legendy o Białej Damie.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "XVI wiek",
+        "feature": {
+            "galleries": "Arkadowe Galerie",
+            "tower": "Historyczna Wieża",
+            "museum": "Muzeum Miejskie"
+        },
+        "openingHours": "Od wtorku do soboty od 9:00 do 16:00, w niedzielę od 9:30 do 17:00"
+    },
+    "przegorzaly": {
+        "title": "Zamek w Przegorzałach, Kraków",
+        "description": "Zamek zbudowany podczas II wojny światowej przez Niemców, obecnie przekształcony w luksusowy hotel Zinar Castle z zapierającymi dech w piersiach widokami na Kraków i Wisłę.",
+        "fullDescription": "Zamek w Przegorzałach, pierwotnie zbudowany pod nazwą 'Schloss Wartenberg' podczas II wojny światowej przez Niemców jako rezydencja dla wysokich rangą urzędników, stoi na wapiennej skale oferując panoramiczne widoki na Kraków i rzekę Wisłę. Po wojnie był wielokrotnie adaptowany, w tym jako część obiektów Uniwersytetu Jagiellońskiego. Obecnie funkcjonuje jako Zinar Castle, pięciogwiazdkowy hotel, miejsce wesel i centrum konferencyjne. Styl architektoniczny łączy elementy neogotyckie i romantyczne, inspirowane zamkami nad Renem. Jego cechy obejmują rozległe tarasy i ogrody, które są idealne do organizacji wydarzeń oraz cieszenia się widokiem, szczególnie o zachodzie słońca. Historia zamku jest złożona, z powiązaniami z mrocznymi czasami, ale obecnie stanowi symbol transformacji i luksusu.",
+        "architecturalStyle": "Neogotyk, Romantyzm",
+        "completed": "1943",
+        "feature": {
+            "view": "Panorama Widokowa",
+            "terrace": "Taras z Ogrodami",
+            "hotel": "Hotel Luksusowy"
+        },
+        "openingHours": "Otwarty 24/7 dla gości hotelowych, godziny wydarzeń różne"
+    },
+    "dobczyce": {
+        "title": "Zamek w Dobczycach",
+        "description": "Ruiny średniowiecznego zamku w Dobczycach, częściowo zrekonstruowane, obecnie funkcjonujące jako muzeum z widokiem na Jezioro Dobczyckie.",
+        "fullDescription": "Zamek w Dobczycach, położony na skalistym wzgórzu nad Jeziorem Dobczyckim, po raz pierwszy wspomniany w dokumentach historycznych w XIV wieku. Początkowo gotycka warownia, później przekształcona w renesansową rezydencję przez rodzinę Lubomirskich. Zamek doznał znacznych zniszczeń w trakcie różnych konfliktów, szczególnie podczas najazdów szwedzkich, co doprowadziło do jego ruin. W XX wieku podjęto działania na rzecz restauracji i konserwacji, co zaowocowało powstaniem Muzeum Regionalnego PTTK, które obecnie zajmuje część zrekonstruowanych ruin. Zwiedzający mogą poznać historię zamku, jego rolę w obronności lokalnej oraz podziwiać widoki na okolicę. Muzeum prezentuje również artefakty z wykopalisk archeologicznych prowadzonych na terenie. Zamek w Dobczycach pozostaje ważnym historycznym i kulturalnym zabytkiem w regionie.",
+        "architecturalStyle": "Gotyk, Renesans",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Ruiny Zamku",
+            "museum": "Muzeum Regionalne PTTK",
+            "viewpoint": "Punkt Widokowy"
+        },
+        "openingHours": "Kwiecień do października: od wtorku do niedzieli od 10:00 do 17:00"
+    },
+    "tropsztyn": {
+        "title": "Zamek Tropsztyn w Wytrzyszczce",
+        "description": "Zrekonstruowany zamek z bogatą historią legend, w tym opowieści o skarbie Inków, z widokiem na Jezioro Czchowskie.",
+        "fullDescription": "Zamek Tropsztyn, położony w Wytrzyszczce, ma korzenie sięgające XIII wieku i jest jednym z niewielu zamków w Polsce posiadających własną nazwę. Był kiedyś twierdzą broniącą szlaków handlowych wzdłuż Dunajca. Z czasem popadł w ruinę, ale od 1995 roku jest rekonstruowany, z celem przywrócenia jego średniowiecznego wyglądu. Zamek otoczony jest legendami, głównie historią o skarbie Inków, który rzekomo został ukryty w jego lochach przez potomków inkaskiej szlachty, którzy uciekli do Europy. Zwiedzający mogą eksplorować zrekonstruowane części, podziwiać panoramiczne widoki na Jezioro Czchowskie, poznawać jego historię przez wystawy i zagłębiać się w tajemnice legendy inkaskiej. Położenie zamku na półwyspie otoczonym rzeką dodaje mu malowniczej scenerii.",
+        "architecturalStyle": "Gotyk, Zrekonstruowany",
+        "completed": "XIII wiek",
+        "feature": {
+            "view": "Panoramiczne Widoki",
+            "reconstruction": "Trwająca Rekonstrukcja",
+            "legend": "Legenda Skarbu Inków"
+        },
+        "openingHours": "Lipiec i sierpień od 9:30 do 18:00"
+    },
+    "korzkiew": {
+        "title": "Zamek Korzkiew",
+        "description": "Średniowieczny zamek przekształcony w hotel i restaurację, oferujący unikalne połączenie historii z nowoczesną gościnnością w pobliżu Krakowa.",
+        "fullDescription": "Zamek Korzkiew, położony w malowniczej wsi niedaleko Krakowa, po raz pierwszy został wspomniany w dokumentach historycznych w XIV wieku. Początkowo zbudowany jako struktura obronna, przez wieki przechodził różne etapy upadku i restauracji. W ostatnich czasach zamek został z miłością odnowiony na hotel i restaurację, zachowując swoją historyczną istotę przy jednoczesnym zapewnieniu nowoczesnych udogodnień. Wieża zamkowa oferuje zapierające dech w piersiach widoki na okoliczną wieś. Jego strategiczne położenie na wzgórzu dodaje uroku temu miejscu, czyniąc go popularnym wyborem na wesela, wydarzenia korporacyjne oraz dla tych, którzy szukają historycznego odpoczynku. Połączenie architektury średniowiecznej z współczesnym komfortem sprawia, że Zamek Korzkiew jest wyjątkowym miejscem docelowym.",
+        "architecturalStyle": "Gotyk",
+        "completed": "XIV wiek",
+        "feature": {
+            "restaurant": "Restauracja Zamkowa",
+            "hotel": "Hotel Zamkowy",
+            "tower": "Wieża Widokowa"
+        },
+        "openingHours": "Hotel i restauracja otwarte codziennie, sprawdź godziny wydarzeń"
+    },
+    "mirow": {
+        "title": "Zamek na Mirowie w Książu Wielkim",
+        "description": "Zamek renesansowy, obecnie służący jako szkoła, znany ze swojej architektonicznej urody i historycznego znaczenia.",
+        "fullDescription": "Zamek na Mirowie w Książu Wielkim, zbudowany między 1585 a 1595 rokiem przez biskupa Piotra Myszkowskiego i jego bratanka, został zaprojektowany przez znanego architekta Santiego Gucciego. Ten zamek prezentuje wczesny przykład stylu 'palazzo in fortezza', łączący elementy mieszkalne i obronne. Po różnych zmianach własności, był znacząco przebudowywany w XVIII i XIX wieku, ale zachowuje część swojego renesansowego uroku. Od 1949 roku mieści Zespół Szkół Zawodowych im. Wincentego Witosa, co czyni go mniej dostępnym dla turystyki ogólnej. Niemniej jednak, jego architektura, w tym rustykowane fasady i zachowane elementy z oryginalnego projektu, sprawiają, że jest to znaczące miejsce. Otoczony parkiem, setting zamku dodaje mu atrakcyjności, mimo jego obecnego zastosowania.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "1595",
+        "feature": {
+            "school": "Zespół Szkół Zawodowych",
+            "renesance_elements": "Elementy Renesansowe",
+            "park": "Otoczający Park"
+        },
+        "openingHours": "Zwykle nie otwarty dla publiczności ze względu na działalność szkoły"
+    },
+    "rabsztyn": {
+        "title": "Zamek w Rabsztynie",
+        "description": "Malownicza ruina gotycka z nowo zrekonstruowaną częścią, oferująca wspaniałe widoki i spojrzenie na historię średniowiecza.",
+        "fullDescription": "Zamek w Rabsztynie, położony w pobliżu Olkusza, pierwotnie był drewnianą warownią zbudowaną w XIII wieku. Później zastąpiono ją kamienną gotycką budowlą, rozbudowaną za panowania Kazimierza Wielkiego. Na przestrzeni wieków popadł w ruinę z powodu wojen i zaniedbania. Niedawne prace renowacyjne zrekonstruowały część zamku, w tym platformę widokową i ekspozycję muzealną, które prezentują bogatą historię obiektu. Z terenu zamku rozciąga się panoramiczny widok na okolicę.",
+        "architecturalStyle": "Gotycki",
+        "completed": "XIV wiek",
+        "feature": {
+            "gothic_ruins": "Ruiny Gotyckie",
+            "viewing_platform": "Platforma Widokowa",
+            "museum": "Małe Muzeum"
+        },
+        "openingHours": "Kwiecień - Październik: 10:00 - 18:00, Listopad - Marzec: Zamknięte"
+    },
+    "lipowiec": {
+        "title": "Zamek Lipowiec",
+        "description": "Średniowieczny gotycki zamek z fascynującą historią jako dawne więzienie biskupie, otoczony malowniczymi szlakami przyrodniczymi.",
+        "fullDescription": "Zamek Lipowiec, położony w Wygiełzowie, pochodzi z XIII wieku i służył jako warownia biskupów krakowskich. Później pełnił funkcję więzienia, w którym przetrzymywano znane postacie na przestrzeni wieków. Zamek popadł w ruinę w XVIII wieku, ale jego pozostałości dają wgląd w życie średniowieczne. Zwiedzający mogą eksplorować ruiny, poznawać historię zamku oraz cieszyć się otaczającymi ścieżkami leśnymi, które wzbogacają wrażenia. To miejsce łączy historyczną intrygę z pięknem natury, co czyni je popularnym celem turystycznym.",
+        "architecturalStyle": "Gotycki",
+        "completed": "XIII wiek",
+        "feature": {
+            "gothic_castle": "Gotycki Zamek",
+            "prison_history": "Dawne Więzienie",
+            "nature_trail": "Szlaki Przyrodnicze"
+        },
+        "openingHours": "Kwiecień - Październik: 9:00 - 17:00, Listopad - Marzec: Zamknięte"
+    },
+    "melsztyn": {
+        "title": "Zamek Melsztyn",
+        "description": "Niewielka, ale malownicza ruina oferująca widoki na Dolinę Dunajca, bogata w średniowieczną historię.",
+        "fullDescription": "Zamek Melsztyn, zbudowany w XIV wieku przez szlachecki ród Melsztyńskich, służył jako warownia obronna nad Dunajcem. Na przestrzeni wieków był rozbudowywany, a później popadł w ruinę w wyniku wojen i zaniedbania. Obecnie zachowały się jedynie fragmenty wieży i murów, ale miejsce oferuje zapierające dech w piersiach widoki na okoliczną dolinę oraz spokojną atmosferę. To doskonały punkt dla miłośników historii i przyrody.",
+        "architecturalStyle": "Gotycki",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Średniowieczne Ruiny",
+            "panorama": "Malownicze Widoki",
+            "history": "Historyczne Znaczenie"
+        },
+        "openingHours": "Otwarte przez cały rok"
+    },
+    "czchow": {
+        "title": "Zamek w Czchowie",
+        "description": "Niewielki średniowieczny zamek z dobrze zachowaną wieżą strażniczą i panoramicznymi widokami na Dolinę Dunajca.",
+        "fullDescription": "Zamek w Czchowie, zbudowany w XIII wieku, pełnił rolę kluczowego punktu obronnego nad Dunajcem oraz komory celnej na szlakach handlowych. Najbardziej charakterystycznym elementem zamku jest wysoka, cylindryczna wieża strażnicza, która zachowała się do dzisiaj. Chociaż reszta budowli uległa zniszczeniu, zwiedzający mogą wspiąć się na wieżę, by podziwiać spektakularne widoki na okolicę. Miejsce ma wielką wartość historyczną i jest popularnym punktem turystycznym w regionie.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIII wiek",
+        "feature": {
+            "watchtower": "Dobrze Zachowana Wieża Strażnicza",
+            "history": "Bogata Historia",
+            "panorama": "Panoramiczne Widoki"
+        },
+        "openingHours": "Kwiecień - Październik: 10:00 - 18:00, Listopad - Marzec: Zamknięte"
+    },
+    "goraMarcina": {
+        "title": "Zamek na Górze Marcina",
+        "description": "Malownicza ruina na wzgórzu nad Tarnowem, oferująca szlaki piesze i wspaniałe widoki na okolicę.",
+        "fullDescription": "Zamek na Górze Marcina, znany również jako Zamek Tarnowski, został zbudowany w XIV wieku przez ród Tarnowskich. Usytuowany na wzgórzu nad Tarnowem, pełnił funkcje obronne i mieszkalne. Na przestrzeni wieków był rozbudowywany, ale w XVII wieku popadł w ruinę w wyniku wojen i zaniedbania. Dziś pozostały tylko ruiny, ale miejsce to jest popularne wśród turystów pieszych i oferuje zapierające dech w piersiach widoki na Tarnów i okoliczne tereny.",
+        "architecturalStyle": "Gotycki",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Historyczne Ruiny",
+            "hiking": "Szlaki Piesze",
+            "panorama": "Zapierające dech w piersiach Widoki"
+        },
+        "openingHours": "Otwarte przez cały rok"
+    },
+    "roznów": {
+        "title": "Zamek w Rożnowie",
+        "description": "Niewielka, częściowo zachowana ruina zamku o unikalnej historii, położona w malowniczej okolicy nad Dunajcem.",
+        "fullDescription": "Zamek w Rożnowie, zbudowany na początku XIV wieku przez ród Rożnowskich, został później rozbudowany przez Tarnowskich w fortecę mieszkalną. Zamek odegrał rolę w obronie regionu, ale popadł w ruinę po XVII wieku. Dziś odwiedzający mogą zwiedzać jego ruiny, w tym fragmenty murów obronnych i części budynków mieszkalnych. Zamek otacza piękno przyrody, co czyni go popularnym celem dla miłośników historii i natury.",
+        "architecturalStyle": "Gotycko-Renesansowy",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Ruiny Zamku",
+            "defensive_walls": "Fragmenty Murów Obrony",
+            "scenic_location": "Malownicze Położenie nad Dunajcem"
+        },
+        "openingHours": "Otwarte przez cały rok"
+    },
+    "rycerskiRoznow": {
+        "title": "Ruiny Zamku Rycerskiego w Rożnowie",
+        "description": "Ruiny XIV-wiecznego zamku rycerskiego, znane z wieży obronnej i malowniczego położenia wśród wzgórz.",
+        "fullDescription": "Zamek Rycerski w Rożnowie, zbudowany w XIV wieku przez ród Rożnowskich, pełnił funkcję strategicznej twierdzy obronnej. Zamek pierwotnie posiadał wybitną wieżę obronną i stanowił część większego systemu fortyfikacji. Z czasem stracił swoje militarne znaczenie i popadł w ruinę do XVII wieku. Dziś zwiedzający mogą eksplorować atmosferyczne ruiny, w tym fragmenty wieży i murów, położone wśród malowniczych wzgórz, które oferują zapierające dech w piersiach widoki na okolicę.",
+        "architecturalStyle": "Gotycki",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Ruiny Zamku",
+            "defensive_tower": "Pozostałości Wieży Obrony",
+            "scenic_hills": "Malownicze Położenie wśród Wzgórz"
+        },
+        "openingHours": "Otwarte przez cały rok"
+    },
+    "dunajec": {
+        "title": "Gotycki Zamek Rycerski Dunajec",
+        "description": "Znakomicie zachowany zamek gotycki górujący nad rzeką Dunajec, oferujący bogatą historię i zapierające dech w piersiach widoki.",
+        "fullDescription": "Zamek Dunajec, zbudowany w XIV wieku, służył jako strategiczna twierdza, a później jako zamek mieszkalny. Jest jednym z najlepiej zachowanych przykładów architektury gotyckiej w Polsce. Zamek wyróżnia się wysoką gotycką wieżą, murami obronnymi i dziedzińcem. Jego położenie na skalnym wzgórzu nad rzeką Dunajec zapewnia wspaniałe widoki i podkreśla jego obronny charakter. Obecnie mieści się tam muzeum prezentujące historię i kulturę regionu, co czyni go obowiązkowym punktem wizyty dla miłośników historii i turystów.",
+        "architecturalStyle": "Gotycki",
+        "completed": "XIV wiek",
+        "feature": {
+            "well_preserved": "Znakomicie Zachowana Struktura",
+            "gothic_tower": "Wysoka Gotycka Wieża",
+            "scenic_river_view": "Malownicze Widoki na Rzekę Dunajec"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 18:00"
+    },
+    "myslenice": {
+        "title": "Zamek w Myślenicach",
+        "description": "Ruiny średniowiecznego zamku położonego na zalesionym wzgórzu, oferujące malownicze szlaki turystyczne i historyczną tajemniczość.",
+        "fullDescription": "Zamek w Myślenicach, sięgający XIV wieku, został zbudowany jako część systemu obronnego chroniącego szlak handlowy między Krakowem a Węgrami. Strategicznie położony na wzgórzu, zapewniał punkt obserwacyjny na okolicę. Z czasem popadł w ruinę, a do dziś zachowały się jedynie fragmenty murów i fundamentów. Miejsce jest dostępne przez szlaki turystyczne, co czyni je popularnym celem dla miłośników natury i historii. Jego spokojne, zalesione otoczenie dodaje uroku i stanowi doskonałą odskocznię od zgiełku współczesnego życia.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIV wiek",
+        "feature": {
+            "ruins": "Ruiny Zamku",
+            "hiking_trail": "Malownicze Szlaki Turystyczne",
+            "historical_significance": "Znaczenie Historyczne"
+        },
+        "openingHours": "Otwarte przez cały rok"
+    },
+    "muszyna": {
+        "title": "Zamek w Muszynie",
+        "description": "Ruiny średniowiecznego zamku oferujące panoramiczne widoki na okoliczną dolinę oraz wgląd w przeszłość.",
+        "fullDescription": "Zamek w Muszynie został zbudowany w XIV wieku jako twierdza chroniąca region przed zagrożeniami zewnętrznymi. Strategiczne położenie zamku na wzgórzu zapewniało doskonały punkt obserwacyjny na okoliczną dolinę. Dziś pozostały jedynie ruiny, które wciąż oferują fascynujący wgląd w średniowieczną historię regionu. Na terenie zamku mieści się także małe muzeum poświęcone lokalnej historii, które stanowi popularne miejsce odwiedzin turystów i wędrowców, oferując zapierające dech w piersiach widoki na dolinę Muszyny oraz pobliskie góry.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIV wiek",
+        "feature": {
+            "museum": "Muzeum Historii Lokalnej",
+            "medieval_ruins": "Ruiny Średniowiecznego Zamku",
+            "panorama_view": "Panoramiczne Widoki na Dolinę Muszyny"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 18:00"
+    },
+    "rytro": {
+        "title": "Zamek w Rytrze",
+        "description": "Ruiny średniowiecznego zamku położonego na wzgórzu, oferujące panoramiczne widoki na dolinę Popradu i okoliczne góry.",
+        "fullDescription": "Zamek w Rytrze pochodzi z XIV wieku i został zbudowany jako twierdza obronna, chroniąca region przed najeźdźcami. Położony na wzgórzu, zapewnia zapierające dech w piersiach widoki na dolinę Popradu i okoliczne góry. Dziś zamek jest w stanie ruiny, ale wciąż stanowi popularne miejsce dla turystów i wędrowców, oferując zarówno doświadczenie historyczne, jak i punkt widokowy. Miejsce to przypomina o średniowiecznej przeszłości regionu, a jego pozostałości wywołują poczucie bogatej historii tego obszaru.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIV wiek",
+        "feature": {
+            "situated_on_hill": "Położony na Wzgórzu",
+            "panorama_view": "Panoramiczne Widoki na Dolinę Popradu",
+            "historical_site": "Miejsce Historyczne"
+        },
+        "openingHours": "Otwarte codziennie od 10:00 do 17:00"
+    },
+    "rzepiennikBiskupi": {
+        "title": "Wieża obronna w Rzepienniku Biskupim",
+        "description": "Mała średniowieczna wieża obronna, oferująca historyczny wgląd i panoramiczne widoki na okolicę.",
+        "fullDescription": "Wieża obronna w Rzepienniku Biskupim to pozostałość systemu fortyfikacji zbudowanego w średniowieczu. Wieża pełniła funkcję punktu obserwacyjnego i obronnego, chroniącego region. Dziś stanowi ważny zabytek historyczny, oferując unikalne widoki na okoliczne krajobrazy i pobliską wieś. Wieża jest popularnym miejscem dla miłośników historii i turystów, oferując fascynujący wgląd w średniowieczną architekturę obronną regionu.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIV wiek",
+        "feature": {
+            "defensive_tower": "Średniowieczna Wieża Obronna",
+            "historical_landmark": "Zabytek Historyczny",
+            "panorama_view": "Panoramiczne Widoki na Okolicę"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 17:00"
+    },
+    "szerzyny": {
+        "title": "Dwór obronny w Szerzynach",
+        "description": "Historyczny dwór obronny, z cechami architektonicznymi odzwierciedlającymi jego przeszłość jako umocnionej rezydencji szlacheckiej.",
+        "fullDescription": "Dwór obronny w Szerzynach to wyjątkowy przykład rezydencji szlacheckiej zbudowanej z elementami obronnymi. Zbudowany w XVII wieku, dwór pełnił rolę zarówno domu rodzinnego, jak i twierdzy, zapewniając ochronę w czasach konfliktów. Posiada umocnione mury i inne elementy obronne, typowe dla tego okresu. Dziś dwór oferuje wgląd w przeszłość, zachowując historyczną atmosferę i unikalne połączenie architektury mieszkalnej i obronnej. Jest to urocze miejsce dla miłośników historii i osób zainteresowanych architekturą regionalną.",
+        "architecturalStyle": "Dwór obronny",
+        "completed": "XVII wiek",
+        "feature": {
+            "defensive_manor": "Obronna Rezydencja Szlachecka",
+            "historical_landmark": "Zabytek Historyczny",
+            "village_atmosphere": "Urokliwa Atmosfera Wsi"
+        },
+        "openingHours": "Otwarte codziennie od 10:00 do 18:00"
+    },
+    "wojnarowa": {
+        "title": "Gród w Wojnarowej",
+        "description": "Dobrze zachowany gród wczesnośredniowieczny, oferujący wgląd w przeszłość dzięki imponującym cechom historycznym i malowniczym widokom.",
+        "fullDescription": "Gród w Wojnarowej pochodzi z wczesnego średniowiecza i pełnił funkcję strategicznego punktu obronnego. Został zbudowany na wzgórzu, co pozwalało na panoramiczny widok na okolicę. Gród posiada mury obronne, możliwą drewnianą palisadę oraz inne elementy typowe dla średniowiecznych fortów. Dziś stanowi zabytek historyczny, przyciągający turystów zainteresowanych średniowieczną historią i archeologią. Gród oferuje doskonałą okazję, by doświadczyć części polskiej, dawnej przeszłości.",
+        "architecturalStyle": "Wczesnośredniowieczna Fortyfikacja",
+        "completed": "IX-X wiek",
+        "feature": {
+            "early_medieval_fort": "Wczesnośredniowieczny Gród",
+            "historical_site": "Zabytek Historyczny",
+            "scenic_view": "Panoramiczne Widoki"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 18:00"
+    },
+    "zbyszyce": {
+        "title": "Dwór obronny w Zbyszycach",
+        "description": "Historyczny dwór obronny, łączący cechy architektury mieszkalnej i obronnej z XVI wieku.",
+        "fullDescription": "Dwór obronny w Zbyszycach to ważny przykład umocnionej rezydencji szlacheckiej z XVI wieku. Położony w strategicznie ważnym miejscu, dwór łączył elementy obronne i mieszkalne, co czyni go wyjątkową budowlą z tamtego okresu. Budynek charakteryzuje się umocnionymi murami, wieżami obronnymi oraz otaczającą fosą, zaprojektowaną w celu ochrony mieszkańców. Choć nie tak duży jak niektóre zamki, dwór oferuje wgląd w życie codzienne szlachty w okresie renesansu. Dziś jest ważnym obiektem kulturowym i historycznym.",
+        "architecturalStyle": "Renesansowy Dwór Obronny",
+        "completed": "XVI wiek",
+        "feature": {
+            "defensive_manor": "Obronna Rezydencja Szlachecka",
+            "historical_site": "Zabytek Historyczny",
+            "architectural_heritage": "Dziedzictwo Architektoniczne"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 17:00"
+    },
+    "nowysacz": {
+        "title": "Zamek w Nowym Sączu",
+        "description": "Średniowieczny zamek w Nowym Sączu, obecnie pełniący funkcję muzeum, prezentujący bogatą historię i kulturę regionu.",
+        "fullDescription": "Zamek w Nowym Sączu został zbudowany w XIV wieku przez króla Kazimierza Wielkiego jako rezydencja królewska i twierdza wojskowa. Na przestrzeni wieków przeszedł liczne modyfikacje, szczególnie w XVI i XVII wieku. Dziś zamek mieści muzeum, w którym prezentowane są eksponaty dotyczące historii regionu, w tym artefakty z okresu średniowiecza. Jego strategiczne położenie oferuje panoramiczne widoki na okolicę, w tym na rzekę Poprad. Zamek jest popularną atrakcją turystyczną, łączącą walory historyczne i naturalne.",
+        "architecturalStyle": "Gotycki i Renesansowy",
+        "completed": "XIV wiek",
+        "feature": {
+            "historical_castle": "Średniowieczny Zamek",
+            "museum": "Muzeum Regionalne",
+            "panoramic_view": "Panoramiczne Widoki"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 17:00"
+    },
+    "piekary": {
+        "title": "Wieża obronna w Piekarach",
+        "description": "Historyczna wieża obronna, część umocnionej osady o znaczeniu wojskowym z okresu średniowiecza.",
+        "fullDescription": "Wieża obronna w Piekarach została zbudowana pod koniec średniowiecza jako element lokalnych umocnień. Pełniła funkcję wieży strażniczej i miejsca schronienia w czasie konfliktów. Jest klasycznym przykładem średniowiecznej architektury wojskowej, zaprojektowanej z myślą o obronie przed oblężeniami i zapewnieniu strategicznych widoków na okoliczny teren. Na przestrzeni wieków wieża przetrwała różne wydarzenia historyczne, stanowiąc ważny pomnik historii regionu. Dziś wieża jest świadectwem średniowiecznej inżynierii wojskowej i stanowi ciekawe miejsce dla miłośników historii.",
+        "architecturalStyle": "Średniowieczna Architektura Wojskowa",
+        "completed": "Pod koniec średniowiecza",
+        "feature": {
+            "defensive_tower": "Obronna Fortifikacja",
+            "military_history": "Znaczenie Wojskowe",
+            "architectural_heritage": "Dziedzictwo Architektoniczne"
+        },
+        "openingHours": "Otwarte codziennie od 10:00 do 16:00"
+    },
+    "skawina": {
+        "title": "Zamek w Skawinie",
+        "description": "Średniowieczny zamek o znaczeniu historycznym, obecnie miejsce badań archeologicznych i dziedzictwa lokalnego.",
+        "fullDescription": "Zamek w Skawinie pochodzi z XIV wieku i był częścią sieci obronnej Królestwa Polskiego. Ma bogatą historię, pełniąc funkcję zarówno rezydencji obronnej, jak i twierdzy wojskowej. Na przestrzeni dziejów zamek przeszedł liczne modyfikacje, szczególnie w XVI i XVII wieku. Obecnie jest to ważne miejsce badań archeologicznych, z trwającymi wykopaliskami, które odkrywają artefakty z okresu średniowiecza. Położenie zamku w pobliżu rzeki Skawiny dodaje mu historycznego znaczenia, oferując widoki na okoliczny krajobraz.",
+        "architecturalStyle": "Gotycki i Renesansowy",
+        "completed": "XIV wiek",
+        "feature": {
+            "medieval_castle": "Średniowieczny Zamek",
+            "historical_significance": "Znaczenie Historyczne",
+            "archaeological_site": "Miejsce Archeologiczne"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 17:00"
+    },
+    "branicach": {
+        "title": "Dwór obronny w Branicach",
+        "description": "Renesansowy dwór obronny o znaczeniu historycznym, charakteryzujący się architekturą wojskową i ważnym dziedzictwem.",
+        "fullDescription": "Dwór obronny w Branicach został zbudowany w XVI wieku jako część umocnień obronnych regionu. Jego architektura nawiązuje do stylu renesansowego, z elementami zaprojektowanymi z myślą o ochronie przed ewentualnymi najazdami. Na przestrzeni dziejów dwór pełnił funkcję zarówno rezydencji, jak i twierdzy. Z biegiem czasu stał się pomnikiem historycznym, przyciągając uwagę dzięki dobrze zachowanym cechom, w tym obronnym murom, wieżom oraz dziedzińcowi. Obecnie jest ważnym obiektem dziedzictwa, oferującym zwiedzającym wgląd w historię wojskową regionu.",
+        "architecturalStyle": "Renesansowa Architektura Wojskowa",
+        "completed": "XVI wiek",
+        "feature": {
+            "defensive_mansion": "Dwór Obrony",
+            "renaissance_architecture": "Renesansowa Architektura",
+            "historical_monument": "Pomnik Historyczny"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 17:00"
+    },
+    "szymbark": {
+        "title": "Kasztel w Szymbarku",
+        "description": "Średniowieczny kasztel z bogatą historią, położony w malowniczej okolicy, obecnie popularna atrakcja turystyczna.",
+        "fullDescription": "Kasztel w Szymbarku to historyczne miejsce sięgające średniowiecza. Początkowo zbudowany jako twierdza, pełnił rolę obronną i rezydencji lokalnej szlachty. Na przestrzeni wieków zamek przeszedł różne modyfikacje, ale zachował wiele ze swojego średniowiecznego uroku. Obecnie jest to popularne miejsce turystyczne, znane z malowniczych widoków, dobrze zachowanej architektury i opowieści o swojej przeszłości. Zwiedzający mogą odkrywać teren zamku, w tym obronne mury, wieże oraz historyczne pomieszczenia.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIV wiek",
+        "feature": {
+            "medieval_castle": "Średniowieczny Kasztel",
+            "historical_site": "Miejsce Historyczne",
+            "tourist_attraction": "Atrakcja Turystyczna"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 18:00"
+    },
+    "koci_zamek": {
+        "title": "Koci Zamek w Tarnowie",
+        "description": "Zamek w stylu renesansowym o unikalnej historii, znany z urokliwej architektury i malowniczej lokalizacji.",
+        "fullDescription": "Koci Zamek w Tarnowie to historyczne miejsce, zbudowane w okresie renesansu. Jego nazwa pochodzi od charakterystycznej wieży w kształcie kota, która jest centralnym punktem zamku. Zamek pełnił kiedyś rolę twierdzy obronnej, ale na przestrzeni wieków przekształcił się w rezydencję dla szlacheckich rodzin. Dziś zamek jest popularną atrakcją turystyczną, oferując zwiedzającym możliwość podziwiania jego pięknej architektury, oglądania otaczających widoków oraz poznawania bogatej historii. Jest jednym z najbardziej znanych zabytków Tarnowa.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "XVI wiek",
+        "feature": {
+            "renaissance_style": "Styl Renesansowy",
+            "historical_monument": "Pomnik Historyczny",
+            "tourist_attraction": "Atrakcja Turystyczna"
+        },
+        "openingHours": "Otwarte codziennie od 10:00 do 18:00"
+    },
+    "ojcow_ruins": {
+        "title": "Ruiny Zamku w Ojcowie",
+        "description": "Malownicze ruiny średniowiecznego zamku, położone w sercu Ojcowskiego Parku Narodowego, oferujące zapierające dech w piersiach widoki na otaczającą przyrodę.",
+        "fullDescription": "Ruiny Zamku w Ojcowie znajdują się w Ojcowskim Parku Narodowym, jednym z najpiękniejszych rezerwatów przyrody w Polsce. Zamek, zbudowany pierwotnie w XIV wieku, był twierdzą mającą na celu obronę regionu przed najazdami. Z biegiem lat zamek popadł w ruinę, a obecnie pozostały jedynie jego ruiny, dające zwiedzającym wgląd w przeszłość. Miejsce oferuje malownicze widoki na otaczający krajobraz, co czyni je popularnym celem zarówno dla miłośników przyrody, jak i historii. Jest to istotna część dziedzictwa Ojcowskiego Parku Narodowego.",
+        "architecturalStyle": "Średniowieczny",
+        "completed": "XIV wiek",
+        "feature": {
+            "medieval_ruins": "Średniowieczne Ruiny",
+            "nature_reserve": "Rezerwat Przyrody",
+            "tourist_attraction": "Atrakcja Turystyczna"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 17:00"
+    },
+    "wieruszyce_manor": {
+        "title": "Dwór Obronny Wieruskich w Wieruszycach",
+        "description": "Historyczny dwór obronny z okresu renesansu, należący do rodziny Wieruskich, znany ze swoich silnych cech architektonicznych i malowniczego otoczenia.",
+        "fullDescription": "Dwór Obronny w Wieruszycach, znany również jako Zamek Wieruskich, został zbudowany w okresie renesansu przez rodzinę Wieruskich. Dwór pełnił funkcję zarówno rezydencji, jak i twierdzy, zaprojektowanej w celu ochrony regionu przed najazdami. Jego styl architektoniczny łączy komfort mieszkalny z cechami obronnymi, co czyni go wyjątkowym przykładem renesansowej architektury obronnej. Budowla została starannie zachowana, oferując zwiedzającym możliwość poznania jej historycznego znaczenia oraz eksplorowania otaczających terenów. Dwór stanowi ważną część lokalnego dziedzictwa.",
+        "architecturalStyle": "Renesansowy",
+        "completed": "XVI wiek",
+        "feature": {
+            "defensive_mansion": "Dwór Obronny",
+            "renaissance_elements": "Elementy Renesansowe",
+            "historical_monument": "Pomnik Historyczny"
+        },
+        "openingHours": "Otwarte codziennie od 9:00 do 18:00"
+    }
+}

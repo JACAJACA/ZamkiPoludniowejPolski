@@ -1,0 +1,563 @@
+{
+    "home": {
+        "title": "Home",
+        "discover": "Discover",
+        "newPlaces": "New Places",
+        "popular": "Popular",
+        "more": "more"
+    },
+    "language": {
+        "title": "Change language"
+    },
+    "search": {
+        "search": "Search",
+        "all": "All",
+        "castle": "Castle",
+        "ruin": "Ruin",
+        "manor": "Manor"
+    },
+    "favorite": {
+        "favorite": "Favorite"
+    },
+    "map": {
+        "navigate": "Navigate",
+        "route1": "Route of royal estates",
+        "route2": "Route of Knights' Strongholds and Legends",
+        "route3": "Route of Romantic Ruins and Castle Views",
+        "route4": "Route of Mansions",
+        "hideRoute": "Hide route",
+        "changeRouteText": "Show route"
+    },
+    "detail": {
+        "keyInformation": "Key information",
+        "architecturalStyle": "Architectural style:",
+        "area": "Area:",
+        "year": "Year of construction completion:",
+        "features": "Features:",
+        "hours": "Opening hours:",
+        "ticket": "Ticket prices:",
+        "adults": "Adults:",
+        "children": "Children:",
+        "description": "Description"
+    },
+    "wawel": {
+        "title": "Wawel Royal Castle",
+        "description": "A historical fortress and royal residence in Kraków, located on Wawel Hill. It houses the State Art Collections – Wawel Royal Castle, a museum spanning 7,040 m² with 71 exhibition halls.",
+        "fullDescription": "The Wawel Royal Castle is one of Poland’s most significant symbols, witnessing key historical and cultural events. Located on Wawel Hill in Kraków, it has been the royal residence for centuries, serving as the political and cultural heart of the country. The structure combines various architectural styles from Romanesque to Renaissance, making it a unique example of artistic continuity and evolution. Currently, the Wawel houses a museum showcasing royal chambers, an armory, treasury, and art collection. Among its attractions is also the Wawel Cathedral, the site of royal coronations and burials. The hill is surrounded by beautiful landscapes along the Vistula River, and the Dragon’s Den, a legendary cave, attracts visitors of all ages. Wawel Castle is not only a valuable monument but also a spiritual place where Poland’s history meets its culture and identity.",
+        "architecturalStyle": "Gothic and Renaissance",
+        "completed": "X century",
+        "feature": {
+            "tower": "Sigismund Tower",
+            "chapel": "Sigismund Chapel",
+            "den": "Dragon’s Den"
+        },
+        "openingHours": "9:00 AM - 5:00 PM"
+    },
+    "niepolomice": {
+        "title": "Niepołomice Royal Castle",
+        "description": "A Renaissance castle in Niepołomice, Poland, once a royal residence known as the 'second Wawel', constructed in the 14th century by Casimir the Great.",
+        "fullDescription": "The Niepołomice Castle, referred to as the 'second Wawel', was initially built in Gothic style in the 14th century by King Casimir the Great and later transformed into a Renaissance mansion. Located in the town of Niepołomice near Kraków, it served as a royal hunting lodge and a venue for royal meetings. After numerous historical events, including damage during the Swedish Deluge, the castle was reconstructed and now hosts a museum and cultural events. The castle's architecture features an arcaded courtyard and cloisters, showcasing the work of Italian architects. It's surrounded by the Niepołomice Forest, making it an attractive spot for both history and nature enthusiasts.",
+        "architecturalStyle": "Renaissance",
+        "completed": "16th century",
+        "feature": {
+            "courtyard": "Arcaded Courtyard",
+            "chapel": "Castle Chapel",
+            "tower": "Corner Tower"
+        },
+        "openingHours": "10:00 AM - 6:00 PM"
+    },
+    "pieskowa": {
+        "title": "Pieskowa Skała Castle",
+        "description": "A Renaissance castle perched on a limestone rock in the Ojców National Park, known for its picturesque setting and historical significance.",
+        "fullDescription": "Pieskowa Skała Castle, situated atop a limestone rock in the heart of Ojców National Park, offers breathtaking views and a rich tapestry of history. Originally built in the 14th century as a defensive fortress, it was later transformed into a Renaissance residence in the 16th century. The castle's architecture reflects both defensive and residential purposes with its high walls, towers, and elegant interiors. Today, it serves as a museum showcasing art collections, historical exhibits, and the evolution of architectural styles. Its location within the park also makes it a popular spot for nature walks, offering panoramic views of the surrounding landscape. The castle's garden, with its terraces, adds to the charm and aesthetic appeal of this historic site.",
+        "architecturalStyle": "Renaissance",
+        "completed": "16th century",
+        "feature": {
+            "defensive_walls": "Defensive Walls",
+            "observation_tower": "Observation Tower",
+            "garden": "Terraced Garden"
+        },
+        "openingHours": "10:00 AM - 4:00 PM"
+    },
+    "niedzica": {
+        "title": "Niedzica Castle",
+        "description": "A medieval castle known as Dunajec Castle, located by Lake Czorsztyn in the Pieniny Mountains, famous for its legends and scenic beauty.",
+        "fullDescription": "Niedzica Castle, also known as Dunajec Castle, stands majestically on a limestone rock above Lake Czorsztyn, offering stunning views of the Pieniny Mountains. Built in the 14th century, it served as a fortress on the Hungarian-Polish border, guarding trade routes and later becoming a noble residence. The castle's history is rich with legends, including tales of Inca treasures and the ghost of Brunhilda. Today, it functions as a museum where visitors can explore historical exhibitions, medieval chambers, and learn about the castle's past owners. The well-known 60-meter deep well, the tower, and the museum are among its notable features. Niedzica Castle also provides a backdrop for numerous films, enhancing its cultural significance.",
+        "architecturalStyle": "Gothic and Renaissance",
+        "completed": "14th century",
+        "feature": {
+            "well": "Deep Well",
+            "tower": "Defensive Tower",
+            "museum": "Castle Museum"
+        },
+        "openingHours": "9:00 AM - 5:00 PM"
+    },
+    "wisnicz": {
+        "title": "Nowy Wiśnicz Castle",
+        "description": "A well-preserved Renaissance castle in Nowy Wiśnicz, known for its impressive fortifications and historical significance.",
+        "fullDescription": "Nowy Wiśnicz Castle, also referred to as Kmita Castle, is a prime example of Polish Renaissance architecture. Established in the 14th century but largely shaped in the 16th century by Stanisław Lubomirski, it boasts an impressive layout with a large courtyard, defensive towers, and thick walls. The castle has served various roles over the centuries, from a defensive stronghold to a noble residence and even a prison. Today, it houses a museum that displays artifacts from its rich history, including weapons, furniture, and works of art. The castle's architecture includes a distinctive gate tower, which adds to its fortress-like appearance. Surrounded by beautiful gardens and located in a picturesque town, Nowy Wiśnicz Castle attracts visitors interested in history, architecture, and the scenic beauty of southern Poland.",
+        "architecturalStyle": "Renaissance",
+        "completed": "16th century",
+        "feature": {
+            "courtyard": "Large Courtyard",
+            "tower": "Gate Tower",
+            "gate": "Baroque Gate"
+        },
+        "openingHours": "10:00 AM - 6:00 PM"
+    },
+    "czorsztyn": {
+        "title": "Czorsztyn Castle",
+        "description": "The ruins of a royal castle perched atop a hill overlooking Lake Czorsztyn, offering panoramic views of the Pieniny Mountains.",
+        "fullDescription": "Czorsztyn Castle, also known as the Royal Castle in Czorsztyn, is one of Poland’s historic gems, now in ruins, providing a glimpse into its medieval past. Established in the 14th century, it was a significant strategic point on the Polish-Hungarian border, witnessing numerous battles and changes of ownership. The castle's history intertwines with that of the nearby Niedzica Castle, together guarding the Dunajec River. Though largely in ruins after multiple sieges and natural degradation, the site still offers breathtaking views of the Pieniny Mountains and Lake Czorsztyn. Visitors can explore the remaining structures, including the walls and towers, and enjoy the scenic beauty from various viewpoints. The castle's location also makes it a popular spot for hiking and appreciating the region's natural beauty.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Ruins",
+            "viewpoint": "Panoramic Viewpoint",
+            "walls": "Fortified Walls"
+        },
+        "openingHours": "9:00 AM - 5:00 PM"
+    },
+    "oswiecim": {
+        "title": "Oświęcim Castle",
+        "description": "A medieval castle in Oświęcim with a history tracing back to the 13th century, now functioning as a museum showcasing local history and culture.",
+        "fullDescription": "Oświęcim Castle, also known as the Castle of the Dukes of Oświęcim, stands as one of the oldest surviving structures in the town, with its origins in the 13th century. Over the centuries, it has served various purposes, from a ducal residence to a military fortress during different historical periods. The castle's architecture has evolved from its initial Gothic form to a more Renaissance style through various reconstructions. Today, it hosts the Oświęcim Museum, which not only exhibits the castle's own history but also delves into the broader historical context of the region, including the impact of World War II and the Holocaust. Visitors can explore the castle's tower, courtyard, and various halls, each offering insights into the past. The castle's location in Oświęcim, near the Auschwitz-Birkenau State Museum, adds a layer of educational significance to any visit.",
+        "architecturalStyle": "Gothic and Renaissance",
+        "completed": "13th century",
+        "feature": {
+            "tower": "Main Tower",
+            "museum": "Oświęcim Museum",
+            "courtyard": "Castle Courtyard"
+        },
+        "openingHours": "9:00 AM - 5:00 PM"
+    },
+    "spytkowice": {
+        "title": "Spytkowice Castle",
+        "description": "A historical castle in Spytkowice, now serving as the National Archives' branch, showcasing its rich history through its architecture.",
+        "fullDescription": "Spytkowice Castle, located in the Małopolska region, has a history that spans from the 15th century. Originally built as a defensive structure, it evolved into a noble residence over time, with significant expansions in the 17th century. The castle's architecture reflects Gothic and Baroque influences, making it a blend of styles. Since 1995, it has housed an exposition of the National Archives in Kraków, preserving historical documents rather than serving as a traditional museum. Visitors can admire the castle from the outside, with notable features like the late-Gothic stone portals and the surrounding park. Although not open for internal visits, the exterior offers insights into its historical and architectural significance. The castle's current role in document preservation adds a unique cultural value to Spytkowice.",
+        "architecturalStyle": "Gothic and Baroque",
+        "completed": "17th century",
+        "feature": {
+            "archive": "National Archives Branch",
+            "gothic_portal": "Gothic Portals",
+            "park": "Castle Park"
+        },
+        "openingHours": "Only external viewing, no specific hours"
+    },
+    "tenczyn": {
+        "title": "Tenczyn Castle in Rudno",
+        "description": "The ruins of Tenczyn Castle, perched on an extinct volcano, are among the largest castle ruins in Lesser Poland, offering a glimpse into medieval defensive architecture.",
+        "fullDescription": "Tenczyn Castle, also known as Tęczyn Castle, is a medieval fortress located in Rudno near Krzeszowice. Built in the 14th century, this castle was once one of the largest in Lesser Poland and was the stronghold of the Tęczyński family, a significant noble lineage. The castle's strategic location on a volcanic hill provided both a natural defensive advantage and panoramic views. Throughout its history, it faced numerous sieges, including the Swedish Deluge, leading to its current state of ruins. However, conservation efforts have made the ruins accessible to visitors, who can explore elements like the Nawojowa Tower, the gate, and the remnants of the castle's once grand structures. The site also hosts cultural events and provides insights into the geological history of the area, given its volcanic origins.",
+        "architecturalStyle": "Gothic and Renaissance",
+        "completed": "14th century",
+        "feature": {
+            "tower": "Nawojowa Tower",
+            "gate": "Main Gate",
+            "ruins": "Castle Ruins"
+        },
+        "openingHours": "Weekends and holidays from 10:00 AM to 6:00 PM"
+    },
+    "debno": {
+        "title": "Dębno Castle",
+        "description": "A well-preserved late-Gothic castle in Dębno, known for its historical significance as a noble residence and now a museum.",
+        "fullDescription": "Dębno Castle, constructed in the late 15th century, stands as a testament to late-Gothic architecture in Poland. Originally built by Jakub Dębiński, a chancellor and castellan, the castle served as a noble residence for several influential families over the centuries, including the Tarło and Jastrzębski families. Its design features four wings forming a courtyard, with decorative stone elements and heraldic shields adorning its walls. After being taken over by the state following World War II, it underwent significant restoration between 1970 and 1978. Today, it functions as a branch of the Tarnów Regional Museum, showcasing furniture, art, and historical artifacts from various periods. The castle also hosts cultural events, providing visitors a chance to experience history through its architecture and exhibitions.",
+        "architecturalStyle": "Late Gothic",
+        "completed": "15th century",
+        "feature": {
+            "courtyard": "Inner Courtyard",
+            "chapel": "Castle Chapel",
+            "museum": "Tarnów Regional Museum Branch"
+        },
+        "openingHours": "Tuesday to Friday from 9:00 AM to 4:00 PM, Saturday and Sunday from 10:00 AM to 6:00 PM"
+    },
+    "zator": {
+        "title": "Ducal Castle in Zator",
+        "description": "A historical castle in Zator, once a ducal residence, now revitalized for tourism, showcasing neo-Gothic architecture.",
+        "fullDescription": "The Ducal Castle in Zator, originally built in the 15th century, served as the main residence of the Dukes of Zator. Its history includes periods of destruction during wars, like the Swedish Deluge, and significant modifications over time. In the 19th century, it was transformed into a neo-Gothic palace by the Potocki family, which added to its current architectural charm. After World War II, the castle was used for various purposes, including as a grain storage facility, before undergoing extensive renovations to restore its historical and aesthetic value. Today, it's open to tourists, featuring richly decorated rooms, a historical park, and cultural events. The castle is also known for its tower and neo-Gothic elements, making it a significant landmark in the region.",
+        "architecturalStyle": "Neo-Gothic",
+        "completed": "19th century renovation",
+        "feature": {
+            "tower": "Main Tower",
+            "park": "Historical Park",
+            "neogothic_elements": "Neo-Gothic Decorations"
+        },
+        "openingHours": "Closed for renovation, check for updates"
+    },
+    "sucha": {
+        "title": "Castle in Sucha Beskidzka",
+        "description": "Often called 'Little Wawel' due to its resemblance to Kraków's Wawel Castle, this Renaissance castle now serves as a cultural and educational center.",
+        "fullDescription": "The Castle in Sucha Beskidzka, known as the 'Little Wawel,' is a Renaissance gem established in the 16th century by Kasper Suski. Its architecture, with arcaded galleries reminiscent of the Royal Castle in Kraków, has evolved through the centuries, reflecting the styles of the families that owned it, including the Komorowski, Wielopolski, Branicki, and Tarnowski families. After World War II, it served various functions before being transformed into a cultural hub. Today, it hosts the Municipal Museum of Sucha Beskidzka, showcasing local history, art, and artifacts. The castle complex includes a historical park, galleries, and a tower, making it a significant cultural and educational site. It's also known for its ghost stories, including the legend of the White Lady.",
+        "architecturalStyle": "Renaissance",
+        "completed": "16th century",
+        "feature": {
+            "galleries": "Arcaded Galleries",
+            "tower": "Historical Tower",
+            "museum": "Municipal Museum"
+        },
+        "openingHours": "Tuesday to Saturday from 9:00 AM to 4:00 PM, Sunday from 9:30 AM to 5:00 PM"
+    },
+    "przegorzaly": {
+        "title": "Przegorzały Castle, Kraków",
+        "description": "A castle built during WWII by the Nazis, now transformed into the luxurious Zinar Castle hotel with breathtaking views of Kraków and the Vistula River.",
+        "fullDescription": "Przegorzały Castle, originally built under the name 'Schloss Wartenberg' during World War II by the Nazis as a residence for high-ranking officials, stands on a limestone hill offering panoramic views over Kraków and the Vistula River. After the war, it was repurposed several times, including as a part of Jagiellonian University facilities. Today, it functions as the Zinar Castle, a five-star hotel, wedding venue, and conference center. The architectural style is a blend of neo-Gothic and romantic elements, inspired by Rhine castles. Its features include vast terraces and gardens, which are ideal for events and enjoying the view, especially at sunset. The castle's history is complex, with connections to dark times, but it now stands as a symbol of transformation and luxury.",
+        "architecturalStyle": "Neo-Gothic, Romanticism",
+        "completed": "1943",
+        "feature": {
+            "view": "Panoramic View",
+            "terrace": "Terraces and Gardens",
+            "hotel": "Luxury Hotel"
+        },
+        "openingHours": "Open 24/7 for hotel guests, event times vary"
+    },
+    "dobczyce": {
+        "title": "Dobczyce Castle",
+        "description": "The ruins of a medieval castle in Dobczyce, now partially reconstructed and functioning as a museum with views over Dobczyce Lake.",
+        "fullDescription": "Dobczyce Castle, situated on a rocky hill above Dobczyce Lake, was first mentioned in historical records in the 14th century. Originally a Gothic fortress, it was later transformed into a Renaissance residence by the Lubomirski family. The castle suffered significant damage during various conflicts, notably the Swedish invasions, leading to its ruinous state. In the 20th century, efforts to restore and preserve the site led to the creation of the Regional Museum PTTK, which now occupies part of the reconstructed ruins. Visitors can explore the history of the castle, its role in local defense, and enjoy scenic views of the surrounding area. The museum also displays artifacts from archaeological digs conducted on the site. Dobczyce Castle remains a significant historical and cultural landmark in the region.",
+        "architecturalStyle": "Gothic, Renaissance",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Castle Ruins",
+            "museum": "Regional Museum PTTK",
+            "viewpoint": "Scenic Viewpoint"
+        },
+        "openingHours": "April to October: Tuesday to Sunday from 10:00 AM to 5:00 PM"
+    },
+    "tropsztyn": {
+        "title": "Tropsztyn Castle in Wytrzyszczka",
+        "description": "A reconstructed castle with a rich history of legends, including tales of Inca treasure, overlooking Lake Czchowskie.",
+        "fullDescription": "Tropsztyn Castle, located in Wytrzyszczka, has roots dating back to the 13th century and is one of the castles with its own name in Poland. It was once a stronghold defending the trade routes along the Dunajec River. Over time, it fell into ruin but has been undergoing reconstruction since 1995, aiming to restore its medieval appearance. The castle is surrounded by legends, primarily the story of the Inca treasure, believed to be hidden in its dungeons by descendants of Incan nobility who fled to Europe. Visitors can explore the reconstructed parts, enjoy the panoramic views of Lake Czchowskie, learn about its history through exhibitions, and delve into the mysteries of the Inca legend. The castle's location on a promontory surrounded by the river adds to its picturesque setting.",
+        "architecturalStyle": "Gothic, Reconstructed",
+        "completed": "13th century",
+        "feature": {
+            "view": "Panoramic Views",
+            "reconstruction": "Ongoing Reconstruction",
+            "legend": "Inca Treasure Legend"
+        },
+        "openingHours": "July and August from 9:30 AM to 6:00 PM"
+    },
+    "korzkiew": {
+        "title": "Korzkiew Castle",
+        "description": "A medieval castle transformed into a hotel and restaurant, offering a unique blend of history and modern hospitality near Kraków.",
+        "fullDescription": "Korzkiew Castle, located in a quaint village near Kraków, was first mentioned in historical records in the 14th century. Initially built as a defensive structure, it has seen various stages of decline and restoration over the centuries. In more recent times, the castle has been lovingly renovated into a hotel and restaurant, preserving its historical essence while providing modern amenities. The castle's tower offers stunning views of the surrounding countryside. Its strategic location on a hill adds to the charm of the place, making it a popular spot for weddings, corporate events, and those seeking a historical getaway. The combination of medieval architecture with contemporary comfort makes Korzkiew Castle a unique destination.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "restaurant": "Castle Restaurant",
+            "hotel": "Castle Hotel",
+            "tower": "Scenic Tower"
+        },
+        "openingHours": "Hotel and restaurant open daily, check for event times"
+    },
+    "mirow": {
+        "title": "Mirów Castle in Książ Wielki",
+        "description": "A Renaissance castle now serving as a school, known for its architectural beauty and historical significance.",
+        "fullDescription": "The Castle on Mirów in Książ Wielki, built between 1585 and 1595 by Bishop Piotr Myszkowski and his nephew, was designed by the renowned architect Santi Gucci. This castle showcases an early example of the 'palazzo in fortezza' style, blending residential and defensive elements. After various changes in ownership, it was significantly altered in the 18th and 19th centuries, but retains some of its Renaissance charm. Since 1949, it has housed the Wincenty Witos Vocational School Complex, making it less accessible for general tourism. However, its architecture, including the rusticated facades and the preserved elements from the original design, make it a notable site. Surrounded by a park, the castle's setting adds to its allure, despite its current use.",
+        "architecturalStyle": "Renaissance",
+        "completed": "1595",
+        "feature": {
+            "school": "Vocational School Complex",
+            "renesance_elements": "Renaissance Elements",
+            "park": "Surrounding Park"
+        },
+        "openingHours": "Not generally open to the public due to school operations"
+    },
+    "rabsztyn": {
+        "title": "Rabsztyn Castle",
+        "description": "A picturesque Gothic ruin with a newly reconstructed section, offering stunning views and a glimpse into medieval history.",
+        "fullDescription": "Rabsztyn Castle, located near Olkusz, was originally a wooden stronghold built in the 13th century. It was later replaced by a Gothic stone structure, expanded during the reign of Casimir the Great. Over the centuries, it fell into ruin due to wars and neglect. Recent restorations have reconstructed part of the castle, including a viewing platform and museum exhibits that showcase its rich history. Visitors can enjoy panoramic views of the surrounding area from the castle grounds.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "gothic_ruins": "Gothic Ruins",
+            "viewing_platform": "Viewing Platform",
+            "museum": "Small Museum"
+        },
+        "openingHours": "April to October: 10 AM - 6 PM, November to March: Closed"
+    },
+    "lipowiec": {
+        "title": "Lipowiec Castle",
+        "description": "A medieval Gothic castle with a fascinating history as a former bishop's prison, now surrounded by scenic nature trails.",
+        "fullDescription": "Lipowiec Castle, located in Wygiełzów, dates back to the 13th century and served as a stronghold for the Bishops of Kraków. It later functioned as a prison, holding notable figures over the centuries. The castle fell into ruin in the 18th century, but its remnants provide a glimpse into medieval life. Visitors can explore the ruins, learn about its history, and enjoy the surrounding forest trails that add to the experience. The site is a blend of historical intrigue and natural beauty, making it a popular destination for tourists.",
+        "architecturalStyle": "Gothic",
+        "completed": "13th century",
+        "feature": {
+            "gothic_castle": "Gothic Castle",
+            "prison_history": "Former Prison",
+            "nature_trail": "Nature Trails"
+        },
+        "openingHours": "April to October: 9 AM - 5 PM, November to March: Closed"
+    },
+    "melsztyn": {
+        "title": "Melsztyn Castle",
+        "description": "A small yet picturesque ruin offering scenic views of the Dunajec River Valley, rich with medieval history.",
+        "fullDescription": "Melsztyn Castle, built in the 14th century by the noble Melsztyński family, served as a defensive stronghold overlooking the Dunajec River. Over the centuries, it was expanded and later fell into ruin after wars and neglect. Today, only parts of the tower and walls remain, but the site offers breathtaking views of the surrounding valley and a peaceful atmosphere. It’s a great spot for history enthusiasts and nature lovers alike.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Medieval Ruins",
+            "panorama": "Scenic Views",
+            "history": "Historical Significance"
+        },
+        "openingHours": "Open year-round"
+    },
+    "czchow": {
+        "title": "Czchów Castle",
+        "description": "A small medieval castle featuring a well-preserved watchtower and offering panoramic views of the Dunajec River Valley.",
+        "fullDescription": "Czchów Castle, built in the 13th century, served as a key defensive point along the Dunajec River and a customs post for trade routes. The castle is best known for its tall, cylindrical watchtower, which has been preserved over the centuries. Although the rest of the structure has mostly disappeared, visitors can still climb the tower for spectacular views of the surrounding area. The site holds great historical value and is a popular stop for tourists exploring the region.",
+        "architecturalStyle": "Medieval",
+        "completed": "13th century",
+        "feature": {
+            "watchtower": "Well-Preserved Watchtower",
+            "history": "Rich Historical Background",
+            "panorama": "Panoramic Views"
+        },
+        "openingHours": "April to October: 10 AM - 6 PM, November to March: Closed"
+    },
+    "goraMarcina": {
+        "title": "Castle on Góra Marcina",
+        "description": "A scenic hilltop ruin overlooking Tarnów, offering hiking opportunities and stunning views of the region.",
+        "fullDescription": "The Castle on Góra Marcina, also known as Tarnów Castle, was built in the 14th century by the Tarnowski family. Perched on a hill above Tarnów, it served both defensive and residential purposes. Over the centuries, the castle was expanded, but it fell into decline in the 17th century due to wars and neglect. Today, only ruins remain, but the site is popular for hiking and offers breathtaking panoramic views of Tarnów and the surrounding countryside.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Historic Ruins",
+            "hiking": "Hiking Trails",
+            "panorama": "Stunning Panoramic Views"
+        },
+        "openingHours": "Open year-round"
+    },
+    "roznów": {
+        "title": "Rożnów Castle",
+        "description": "A small, partially preserved castle ruin with a unique history, located in a scenic area near the Dunajec River.",
+        "fullDescription": "Rożnów Castle, built in the early 14th century by the Rożnowski family, was later expanded by the Tarnowski family into a fortress-like residence. The castle played a role in the defense of the region but fell into decline after the 17th century. Today, visitors can explore its ruins, including fragments of defensive walls and parts of the residential buildings. The castle is surrounded by natural beauty, making it a popular destination for history enthusiasts and nature lovers.",
+        "architecturalStyle": "Gothic-Renaissance",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Castle Ruins",
+            "defensive_walls": "Fragments of Defensive Walls",
+            "scenic_location": "Scenic Location Near Dunajec River"
+        },
+        "openingHours": "Open year-round"
+    },
+    "rycerskiRoznow": {
+        "title": "Knight's Castle Ruins in Rożnów",
+        "description": "Ruins of a 14th-century knightly castle, known for its defensive tower and picturesque location among rolling hills.",
+        "fullDescription": "The Knight's Castle in Rożnów, built in the 14th century by the Rożnowski family, served as a strategic defensive stronghold. The castle originally featured a prominent defensive tower and was part of a larger fortification system. Over time, it lost its military importance and fell into disrepair by the 17th century. Today, visitors can explore the atmospheric ruins, including parts of the tower and walls, all set amidst scenic hills that provide stunning views of the surrounding area.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Castle Ruins",
+            "defensive_tower": "Defensive Tower Remains",
+            "scenic_hills": "Scenic Hillside Setting"
+        },
+        "openingHours": "Open year-round"
+    },
+    "dunajec": {
+        "title": "Gothic Knight's Castle Dunajec",
+        "description": "A remarkably well-preserved Gothic castle overlooking the Dunajec River, offering a rich history and breathtaking views.",
+        "fullDescription": "The Dunajec Castle, built in the 14th century, served as a strategic fortress and later as a residential castle. It is one of the best-preserved examples of Gothic architecture in Poland. The castle features a towering Gothic keep, defensive walls, and a courtyard. Its location on a rocky hill above the Dunajec River provides stunning views and adds to its defensive allure. Today, it houses a museum showcasing the region's history and culture, making it a must-visit destination for history enthusiasts and tourists.",
+        "architecturalStyle": "Gothic",
+        "completed": "14th century",
+        "feature": {
+            "well_preserved": "Remarkably Well-Preserved Structure",
+            "gothic_tower": "Towering Gothic Keep",
+            "scenic_river_view": "Scenic Views of the Dunajec River"
+        },
+        "openingHours": "Open daily from 9 AM to 6 PM"
+    },
+    "myslenice": {
+        "title": "Castle in Myślenice",
+        "description": "Ruins of a medieval castle located on a forested hill, offering scenic hiking trails and historical intrigue.",
+        "fullDescription": "The Castle in Myślenice, dating back to the 14th century, was built as part of the defensive system protecting the trade route between Kraków and Hungary. Strategically located on a hill, the castle provided a vantage point over the surrounding area. Over time, it fell into ruin, with only remnants of its walls and foundations surviving. The site is accessible via hiking trails, making it a popular destination for nature and history enthusiasts. Its peaceful forested setting adds to its charm and offers an escape from the bustle of modern life.",
+        "architecturalStyle": "Medieval",
+        "completed": "14th century",
+        "feature": {
+            "ruins": "Castle Ruins",
+            "hiking_trail": "Scenic Hiking Trails",
+            "historical_significance": "Historical Significance"
+        },
+        "openingHours": "Open year-round"
+    },
+    "muszyna": {
+        "title": "Castle in Muszyna",
+        "description": "Ruins of a medieval castle offering panoramic views of the surrounding valley and a glimpse into the past.",
+        "fullDescription": "The Castle in Muszyna was built in the 14th century as a stronghold to protect the region from external threats. The castle's strategic location on a hill provided an excellent vantage point over the surrounding valley. Today, only the ruins remain, but they continue to offer a fascinating insight into the region's medieval history. The site also houses a small museum dedicated to local history and is a popular stop for tourists and hikers, offering stunning views of the Muszyna valley and the nearby mountains.",
+        "architecturalStyle": "Medieval",
+        "completed": "14th century",
+        "feature": {
+            "museum": "Local History Museum",
+            "medieval_ruins": "Medieval Castle Ruins",
+            "panorama_view": "Panoramic Views of the Muszyna Valley"
+        },
+        "openingHours": "Open daily from 9 AM to 6 PM"
+    },
+    "rytro": {
+        "title": "Castle in Rytrze",
+        "description": "A medieval castle ruin situated on a hill offering panoramic views of the Poprad Valley and the surrounding mountains.",
+        "fullDescription": "The Castle in Rytrze dates back to the 14th century and was built as a defensive stronghold protecting the region from invaders. Located atop a hill, it provides breathtaking views of the Poprad Valley and surrounding mountains. Today, the castle is in a ruined state, but it remains a popular destination for tourists and hikers, offering both a historical experience and a scenic viewpoint. The site also serves as a reminder of the region's medieval past, with its remains evoking a sense of the area's rich history.",
+        "architecturalStyle": "Medieval",
+        "completed": "14th century",
+        "feature": {
+            "situated_on_hill": "Located on a Hilltop",
+            "panorama_view": "Panoramic Views of Poprad Valley",
+            "historical_site": "Historical Site"
+        },
+        "openingHours": "Open daily from 10 AM to 5 PM"
+    },
+    "rzepiennikBiskupi": {
+        "title": "Defensive Tower in Rzepiennik Biskupi",
+        "description": "A small medieval defensive tower, offering a historical glimpse and panoramic views of the surrounding area.",
+        "fullDescription": "The Defensive Tower in Rzepiennik Biskupi is a remnant of a fortification system built in the medieval period. The tower served as a lookout and defensive structure to protect the region. Today, it stands as an important historical landmark, offering a unique view of the surrounding landscapes and the nearby village. The tower is a popular stop for history enthusiasts and tourists, with a fascinating history that contributes to the understanding of the medieval defensive architecture in this area.",
+        "architecturalStyle": "Medieval",
+        "completed": "14th century",
+        "feature": {
+            "defensive_tower": "Medieval Defensive Tower",
+            "historical_landmark": "Historical Landmark",
+            "panorama_view": "Panoramic Views of the Surrounding Area"
+        },
+        "openingHours": "Open daily from 9 AM to 5 PM"
+    },
+    "szerzyny": {
+        "title": "Defensive Manor in Szerzyny",
+        "description": "A historical defensive manor, with architectural features that reflect its past as a fortified noble residence.",
+        "fullDescription": "The Defensive Manor in Szerzyny is a remarkable example of a noble residence built with defensive features. Dating back to the 17th century, this manor was designed to serve both as a family home and a fortification, providing protection in times of conflict. It features fortified walls and other defensive elements, typical of the period. Today, the manor offers a glimpse into the past with its historical atmosphere and unique blend of residential and defensive architecture. The manor is a charming stop for history enthusiasts and those interested in regional architecture.",
+        "architecturalStyle": "Defensive Manor",
+        "completed": "17th century",
+        "feature": {
+            "defensive_manor": "Defensive Noble Residence",
+            "historical_landmark": "Historical Landmark",
+            "village_atmosphere": "Charming Village Atmosphere"
+        },
+        "openingHours": "Open daily from 10 AM to 6 PM"
+    },
+    "wojnarowa": {
+        "title": "Early Medieval Fort in Wojnarowa",
+        "description": "A well-preserved early medieval fort, offering a glimpse into the past with its impressive historical features and scenic views.",
+        "fullDescription": "The Early Medieval Fort in Wojnarowa dates back to the early Middle Ages, serving as a strategic defensive site. This fortified settlement was constructed on a hill, offering a panoramic view of the surrounding area. The fort features defensive walls, a possible wooden palisade, and other elements typical of early medieval fortifications. Today, it serves as a historical site, attracting visitors interested in medieval history and archeology. The fort offers an excellent opportunity to experience a part of Poland's ancient past.",
+        "architecturalStyle": "Early Medieval Fortification",
+        "completed": "9th-10th century",
+        "feature": {
+            "early_medieval_fort": "Early Medieval Fort",
+            "historical_site": "Historical Site",
+            "scenic_view": "Panoramic Views"
+        },
+        "openingHours": "Open daily from 9 AM to 6 PM"
+    },
+    "zbyszyce": {
+        "title": "Defensive Manor in Zbyszyce",
+        "description": "A historical defensive manor, showcasing a blend of residential and defensive architectural features from the 16th century.",
+        "fullDescription": "The Defensive Manor in Zbyszyce is a significant example of a fortified noble residence from the 16th century. Located in a strategically important area, the manor combines both defensive and residential elements, making it a unique structure of its time. The building is characterized by fortified walls, defensive towers, and a surrounding moat, designed to protect its inhabitants. Although not as large as some castles, the manor offers a glimpse into the daily life of the nobility during the Renaissance. Today, the manor is an important cultural and historical landmark.",
+        "architecturalStyle": "Renaissance Defensive Manor",
+        "completed": "16th century",
+        "feature": {
+            "defensive_manor": "Defensive Noble Residence",
+            "historical_site": "Historical Landmark",
+            "architectural_heritage": "Architectural Heritage"
+        },
+        "openingHours": "Open daily from 9 AM to 5 PM"
+    },
+    "nowysacz": {
+        "title": "Castle in Nowy Sącz",
+        "description": "A medieval castle in Nowy Sącz, now serving as a museum, showcasing the rich history and culture of the region.",
+        "fullDescription": "The Castle in Nowy Sącz was built in the 14th century by King Casimir the Great and served as a royal residence and military stronghold. Over the centuries, it has undergone numerous modifications, particularly in the 16th and 17th centuries. Today, the castle houses a museum, exhibiting the history of the region, including artifacts from the Middle Ages. The castle's strategic location offers panoramic views of the surrounding area, including the Poprad River. The site is a popular tourist attraction, offering both historical insight and natural beauty.",
+        "architecturalStyle": "Gothic and Renaissance",
+        "completed": "14th century",
+        "feature": {
+            "historical_castle": "Medieval Castle",
+            "museum": "Regional Museum",
+            "panoramic_view": "Panoramic Views"
+        },
+        "openingHours": "Open daily from 9 AM to 5 PM"
+    },
+    "piekary": {
+        "title": "Defensive Tower in Piekary",
+        "description": "A historical defensive tower, part of a fortified settlement with military significance from the Middle Ages.",
+        "fullDescription": "The defensive tower in Piekary was built in the late Middle Ages as part of the local fortifications. It served as both a watchtower and a place of refuge during times of conflict. The tower is a classic example of medieval military architecture, designed to withstand sieges and offer strategic views of the surrounding landscape. Over the centuries, it has survived various historical events, making it an important monument to the area's history. Today, the tower stands as a testament to medieval military engineering and is an interesting site for history enthusiasts.",
+        "architecturalStyle": "Medieval Military Architecture",
+        "completed": "Late Middle Ages",
+        "feature": {
+            "defensive_tower": "Defensive Fortification",
+            "military_history": "Military Significance",
+            "architectural_heritage": "Architectural Heritage"
+        },
+        "openingHours": "Open daily from 10 AM to 4 PM"
+    },
+    "skawina": {
+        "title": "Castle in Skawina",
+        "description": "A medieval castle with historical significance, now a site of archaeological interest and local heritage.",
+        "fullDescription": "The Castle in Skawina dates back to the 14th century, built as part of the defensive network of the Kingdom of Poland. It has a rich history, serving both as a fortified residence and a military stronghold. Throughout its history, the castle has undergone significant modifications, particularly in the 16th and 17th centuries. Today, it is an important site for archaeological research, with ongoing excavations uncovering artifacts from the medieval period. The castle’s location near the Skawina River adds to its historical significance, offering views of the surrounding landscape.",
+        "architecturalStyle": "Gothic and Renaissance",
+        "completed": "14th century",
+        "feature": {
+            "medieval_castle": "Medieval Castle",
+            "historical_significance": "Historical Significance",
+            "archaeological_site": "Archaeological Site"
+        },
+        "openingHours": "Open daily from 9 AM to 5 PM"
+    },
+    "branicach": {
+        "title": "Defensive Mansion in Branice",
+        "description": "A Renaissance defensive mansion with historical importance, featuring military architecture and a notable heritage site.",
+        "fullDescription": "The Defensive Mansion in Branicach was built in the 16th century as part of the defensive structures of the region. Its architecture reflects the Renaissance style, with elements designed to protect against potential invasions. Throughout its history, the mansion served both as a residence and a fortification. Over time, it became a historical monument, attracting attention for its well-preserved features, including the defensive walls, towers, and a courtyard. Today, it is an important heritage site, offering visitors a glimpse into the military history of the area.",
+        "architecturalStyle": "Renaissance Military Architecture",
+        "completed": "16th century",
+        "feature": {
+            "defensive_mansion": "Defensive Mansion",
+            "renaissance_architecture": "Renaissance Architecture",
+            "historical_monument": "Historical Monument"
+        },
+        "openingHours": "Open daily from 9 AM to 5 PM"
+    },
+    "szymbark": {
+        "title": "Castle in Szymbark",
+        "description": "A medieval castle with rich history, located in a picturesque area, now a popular tourist attraction.",
+        "fullDescription": "The Castle in Szymbark is a historic site dating back to the Middle Ages. Originally built as a fortification, it served as a defensive stronghold and residence for local nobility. Over the centuries, the castle has undergone various modifications but has retained much of its medieval charm. Today, it is a popular tourist destination, known for its scenic views, well-preserved architecture, and the stories of its past. Visitors can explore the castle grounds, including its defensive walls, towers, and historic rooms.",
+        "architecturalStyle": "Medieval",
+        "completed": "14th century",
+        "feature": {
+            "medieval_castle": "Medieval Castle",
+            "historical_site": "Historical Site",
+            "tourist_attraction": "Tourist Attraction"
+        },
+        "openingHours": "Open daily from 9 AM to 6 PM"
+    },
+    "koci_zamek": {
+        "title": "Cat Castle in Tarnów",
+        "description": "A Renaissance-style castle with a unique history, known for its charming architecture and scenic location.",
+        "fullDescription": "The Cat Castle in Tarnów is a historic site, built in the Renaissance period. Its name comes from the distinctive cat-shaped tower that stands as its centerpiece. The castle served as a defensive fortification in the past, but over the centuries, it transformed into a residence for noble families. Today, the castle is a major tourist attraction, offering visitors the chance to admire its beautiful architecture, take in the surrounding views, and learn about its rich history. It remains one of Tarnów’s most famous landmarks.",
+        "architecturalStyle": "Renaissance",
+        "completed": "16th century",
+        "feature": {
+            "renaissance_style": "Renaissance Style",
+            "historical_monument": "Historical Monument",
+            "tourist_attraction": "Tourist Attraction"
+        },
+        "openingHours": "Open daily from 10 AM to 6 PM"
+    },
+    "ojcow_ruins": {
+        "title": "Ruins of the Castle in Ojców",
+        "description": "The picturesque ruins of a medieval castle, located in the heart of Ojców National Park, offering stunning views of the surrounding nature.",
+        "fullDescription": "The Ruins of the Castle in Ojców are located within the Ojców National Park, one of Poland’s most beautiful nature reserves. The castle, originally built in the 14th century, was a fortification designed to defend the area against invasions. Over the years, it fell into disrepair and now only its ruins remain, giving visitors a glimpse into the past. The site offers scenic views of the surrounding landscape, making it a popular destination for nature lovers and history enthusiasts. It is an essential part of the Ojcowski National Park’s heritage.",
+        "architecturalStyle": "Medieval",
+        "completed": "14th century",
+        "feature": {
+            "medieval_ruins": "Medieval Ruins",
+            "nature_reserve": "Nature Reserve",
+            "tourist_attraction": "Tourist Attraction"
+        },
+        "openingHours": "Open daily from 9 AM to 5 PM"
+    },
+    "wieruszyce_manor": {
+        "title": "Defensive Manor of the Wieruscy Family in Wieruszyce",
+        "description": "A historical defensive manor from the Renaissance period, belonging to the Wieruscy family, known for its strong architectural features and scenic surroundings.",
+        "fullDescription": "The Defensive Manor in Wieruszyce, also known as the Wieruscy Castle, was built in the Renaissance period by the Wieruscy family. This manor served both as a residence and a fortification, designed to protect the region against invasions. Its architectural style blends residential comfort with defensive features, making it a unique example of Renaissance defensive architecture. The building has been carefully preserved, offering visitors a chance to experience its historical significance and explore the surrounding grounds. The manor remains an important part of the local heritage.",
+        "architecturalStyle": "Renaissance",
+        "completed": "16th century",
+        "feature": {
+            "defensive_mansion": "Defensive Mansion",
+            "renaissance_elements": "Renaissance Elements",
+            "historical_monument": "Historical Monument"
+        },
+        "openingHours": "Open daily from 9 AM to 6 PM"
+    }
+}
