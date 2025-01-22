@@ -4,14 +4,14 @@ import Icon from '../shared/Icon';
 import {colors, spacing, sizes, shadow} from '../../constants/theme';
 
 const SearchInput = ({value, onChangeText}) => {
-  const [search, setSearch] = useState('');
   return (
-    <View style={styles.container}>
+    <View style={styles.container} testID="search-input">
       <View style={styles.inner}>
         <View style={styles.search} pointerEvents="none">
-          <Icon icon="Search" />
+          <Icon icon="Search" testID="search-icon"/>
         </View>
         <TextInput
+          testID="search-input-field"
           style={styles.field}
           placeholder="Zamek..."
           placeholderTextColor="#888"
@@ -19,7 +19,7 @@ const SearchInput = ({value, onChangeText}) => {
           onChangeText={onChangeText}
         />
         <View style={styles.filter}>
-          <Icon icon="Filter" onPress={() => {}} />
+          <Icon icon="Filter" onPress={() => {}} testID="filter-icon"/>
         </View>
       </View>
     </View>

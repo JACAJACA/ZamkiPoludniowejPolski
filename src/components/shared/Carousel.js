@@ -1,5 +1,5 @@
 import React from 'react';
-import {FlatList, StyleSheet} from 'react-native';
+import {FlatList, StyleSheet, View} from 'react-native';
 import {sizes, spacing} from '../../constants/theme';
 
 const CARD_WIDTH = sizes.width - 80;
@@ -8,6 +8,7 @@ const CARD_WIDTH_SPACING = CARD_WIDTH + spacing.l;
 const Carousel = ({renderItem, items = []}) => {
   return (
     <FlatList
+      testID="carousel-component"
       data={items}
       horizontal
       style={styles.container}
@@ -27,7 +28,7 @@ const Carousel = ({renderItem, items = []}) => {
             },
           });
         }
-        return null;
+        return <View />;
       }}
     />
   );

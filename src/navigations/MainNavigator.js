@@ -51,5 +51,3 @@ const MainNavigator = () => {
 };
 
 export default MainNavigator;
-
-//const imageUri = require('../../assets/images/map.jpg');
