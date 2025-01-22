@@ -8,7 +8,7 @@ import { useTranslation } from 'react-i18next';
 import { changeAndSaveLanguage } from '../../../i18n';
 import { LanguageContext } from '../../data/LanguageContext';
 
-const MainHeader = ({ title }) => {
+const MainHeader = ({ title = '' }) => {
   const navigation = useNavigation();
   const insets = useSafeAreaInsets();
   const { t, i18n } = useTranslation();

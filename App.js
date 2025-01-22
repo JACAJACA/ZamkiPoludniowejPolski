@@ -1,5 +1,4 @@
 import React from 'react';
-
 import MainNavigator from './src/navigations/MainNavigator';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { FavoritesProvider } from './src/data/FavoritesContext';

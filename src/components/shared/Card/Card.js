@@ -5,6 +5,7 @@ import {colors, shadow, sizes, spacing} from '../../../constants/theme';
 const Card = ({children, style, onPress, shadowType = 'light'}) => {
   return (
     <TouchableOpacity
+      testID="card-component"
       onPress={onPress}
       style={[styles.card, style, shadow[shadowType]]}>
       <View style={styles.inner}>{children}</View>
